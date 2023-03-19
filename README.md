@@ -23,10 +23,3 @@ You will need to run npm i to install the node modules, as well as create an env
 The app can be used to model out a possible social networking website for future creation.
 
 
-## User Story
-
-```md
-AS A social media startup
-I WANT an API for my social network that uses a NoSQL database
-SO THAT my website can handle large amounts of unstructured data
-```
